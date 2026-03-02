@@ -1,79 +1,51 @@
 # Hi there 👋 I'm Fatema Yesmin Maroya
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="220"/>
-</p>
+**Aspiring Web Developer & UI/UX Designer**
 
-**Aspiring Web Developer & UI/UX Designer**  
- Passionate about creating beautiful, user-friendly websites  
- Turning ideas into clean and modern digital experiences  
+I’m passionate about building beautiful, user-friendly digital experiences.  
+I love turning ideas into responsive websites and intuitive interfaces.
+
 
 ---
 
-## 🌷 About Me
-- 🌱 Currently learning advanced Web Development  
-- 🎨 Love UI/UX design and clean interfaces  
-- 💻 Building responsive and interactive websites  
-- ✨ Always exploring new technologies  
+## 🛠️ Skills
+
+**Languages**
+- HTML5
+- CSS3
+- JavaScript
+- C++
+- Python
+- PHP
+
+**Frameworks & Technologies**
+- Laravel
+- MySQL
+
+**Design Tools**
+- Figma
+- Adobe XD
+
+**Other Tools**
+- Git & GitHub
+- VS Code
+- VS Code
 
 ---
 
-## 💻 Tech Stack
-
-### 🌐 Languages
-- HTML5  
-- CSS3  
-- JavaScript  
-- C++  
-- Python  
-- PHP  
-
-### ⚙️ Frameworks & Technologies
-- Laravel  
-- MySQL  
-
-### 🎨 Design Tools
-- Figma  
-- Adobe XD  
-
-### 🧰 Tools
-- Git & GitHub  
-- VS Code  
-
----
-
-##  UI/UX Interests
-- User-centered design  
-- Wireframing & prototyping  
-- Responsive design  
-- Accessibility & usability  
-- Minimal & modern layouts  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FatemaYesminMaroya&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatemaYesminMaroya&theme=tokyonight" />
-</p>
-
----
+## 🎨 UI/UX Focus
+- User-centered design
+- Wireframing & prototyping
+- Clean and modern interfaces
+- Accessibility & usability
 
 
 
 ---
 
 ## 📫 Connect With Me
-💻 GitHub: https://github.com/FatemaYesminMaroya
+- GitHub: https://github.com/FatemaYesminMaroya
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180"/>
-</p>
-
-⭐ Thanks for visiting my profile!
+⭐ *Thanks for visiting my profile!*
