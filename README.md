@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there 👋 I'm Fatema Yesmin Maroya
 
-<!--
-**FatemaYesminMaroya/FatemaYesminMaroya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Web Developer & UI/UX Designer**
 
-Here are some ideas to get you started:
+I’m passionate about building beautiful, user-friendly digital experiences.  
+I love turning ideas into responsive websites and intuitive interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 What I’m Learning
+- 🌐 Frontend Development (HTML, CSS, JavaScript)
+- ⚛️ Modern Web Frameworks
+- 🎨 UI/UX Design Principles
+- 📱 Responsive Design
+- 🧩 Design Systems
+
+---
+
+## 🛠️ Skills
+**Languages**
+- HTML5
+- CSS3
+- JavaScript
+
+**Design Tools**
+- Figma
+- Adobe XD
+
+**Other Tools**
+- Git & GitHub
+- VS Code
+
+---
+
+## 🎨 UI/UX Focus
+- User-centered design
+- Wireframing & prototyping
+- Clean and modern interfaces
+- Accessibility & usability
+
+---
+
+## 🌱 Currently Working On
+- Improving frontend development skills
+- Building responsive web projects
+- Learning advanced UI/UX techniques
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/FatemaYesminMaroya
+
+---
+
+⭐ *Thanks for visiting my profile!*
