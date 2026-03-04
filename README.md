@@ -29,7 +29,7 @@ I love turning ideas into responsive websites and intuitive interfaces.
 **Other Tools**
 - Git & GitHub
 - VS Code
-- VS Code
+
 
 ---
 
