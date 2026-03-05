@@ -16,36 +16,17 @@ I love turning ideas into responsive websites and intuitive interfaces.
 - JavaScript
 - C++
 - Python
-- PHP
-
-**Frameworks & Technologies**
-- Laravel
+- PHP|Laravel
 - MySQL
 
 **Design Tools**
 - Figma
 - Adobe XD
 
-**Other Tools**
-- Git & GitHub
-- VS Code
 
 
 ---
 
-## 🎨 UI/UX Focus
-- User-centered design
-- Wireframing & prototyping
-- Clean and modern interfaces
-- Accessibility & usability
 
-
-
----
-
-## 📫 Connect With Me
-- GitHub: https://github.com/FatemaYesminMaroya
-
----
 
 ⭐ *Thanks for visiting my profile!*
